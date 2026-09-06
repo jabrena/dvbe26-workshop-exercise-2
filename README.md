@@ -1,1 +1,2 @@
-# dvbe26-workshop-exercise-2
+# Devoxx Belgium 2026 Exercise 2: REST Service + Persistence
+### Repository to host the content for the Excercise 2 that will be done during the [Technical Workshop on AI-Native Tooling for Java Development](https://m.devoxx.com/events/dvbe26/talks/8190/technical-workshop-on-ai-native-tooling-for-java-development)
